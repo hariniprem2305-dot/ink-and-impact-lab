@@ -29,11 +29,10 @@ const reasons = [
 ];
 
 const contact = [
-  { label: "Email", value: "harini.writes@email.com", href: "mailto:harini.writes@email.com" },
-  { label: "Phone", value: "Available on request", href: null },
-  { label: "Location", value: "Tamil Nadu, India", href: null },
-  { label: "LinkedIn", value: "linkedin.com/in/harini-p", href: "https://linkedin.com/in/harini-p" },
-  { label: "Portfolio", value: "harinip.portfolio", href: null },
+  { label: "Email", value: "harinipremkumar2305@gmail.com", href: "mailto:harinipremkumar2305@gmail.com" },
+  { label: "Phone", value: "+91 9342660323", href: "tel:+919342660323" },
+  { label: "Location", value: "Vellore, India", href: null },
+  { label: "LinkedIn", value: "linkedin.com/in/harini-premkumar-301642284", href: "https://www.linkedin.com/in/harini-premkumar-301642284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
 ];
 
 function Services() {
